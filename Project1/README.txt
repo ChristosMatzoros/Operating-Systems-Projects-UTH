@@ -1,7 +1,3 @@
-Παππάς Απόστολος 2109 apopappas@inf.uth.gr
-Ματζώρος Χρήστος Κωνσταντίνος 2169 cmatzoros@inf.uth.gr
-Γιαννούκος Τριαντάφυλλος Ανάργυρος 2232 tgiannoukos@inf.uth.gr
-
 
 1. Μεταγλώττιση της εφαρμογής find_roots_lib
 
