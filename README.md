@@ -10,8 +10,8 @@ Project4: Implementation and evaluation of C-LOOK I/O request scheduler for the 
 
 Created by:
 <br />
-https://www.linkedin.com/in/apostolos-pappas
+Apostolos Pappas    www.linkedin.com/in/apostolos-pappas
 <br />
-Akis Giannoukos  www.linkedin.com/in/akisgiannoukos
+Akis Giannoukos     www.linkedin.com/in/akisgiannoukos
 <br />
 Christos Matzoros   www.linkedin.com/in/matzoros-christos
